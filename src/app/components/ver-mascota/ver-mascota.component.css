@@ -1,0 +1,9 @@
+.card{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
