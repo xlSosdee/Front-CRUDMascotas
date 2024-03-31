@@ -109,7 +109,10 @@ export class AgregarEditarMascotaComponent implements OnInit, OnDestroy {
   mensajeExito(texto: string) {
     //Ctrl + Espacio para ver todo lo que se puede configurar dentro de la función
     this._snackBar.open(`La mascota fue ${texto} con éxito`, '', { duration: 2500, horizontalPosition: 'right' });
+    
   }
+
+  //Prueba de commit externo
 
 
 }
